@@ -1,21 +1,21 @@
 {
-  "name": "AFK Bot",
+  "name": "VAQUISH-SMP-PRIVATE-SMP",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
-    "try-creative": false
+    "ip": "Vaquishsmp.aternos.me",
+    "port": 19321,
+    "version": "1.21.11",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
-    "x": 0,
+    "x": 10000000000000,
     "y": 100,
-    "z": 0
+    "z": 10000000000000
   },
   "utils": {
     "auto-auth": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "VAQUISH SMP",
+        "VAQ",
+        "A PRIVATE SMP"
       ]
     },
     "chat-log": true,
@@ -42,7 +42,7 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
